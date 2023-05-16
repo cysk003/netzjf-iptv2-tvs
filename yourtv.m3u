@@ -75,120 +75,156 @@ http://159.75.85.63:5679/cctv4k.php
 https://live.goodiptv.club/aishang/cctv164k
 #EXTINF:-1 ,爱上4K
 https://live.goodiptv.club/aishang/as4k
-#EXTINF:-1 ,CCTV-1
-https://live.goodiptv.club/aishang/cctv1hd
-#EXTINF:-1 ,CCTV-2
-https://live.goodiptv.club/aishang/cctv2hd
-#EXTINF:-1 ,CCTV-3
-https://live.goodiptv.club/aishang/cctv3hd
-#EXTINF:-1 ,CCTV-4
-https://live.goodiptv.club/aishang/cctv4hd
-#EXTINF:-1 ,CCTV-5
-https://live.goodiptv.club/aishang/cctv5hd
-#EXTINF:-1 ,CCTV-5+
-https://live.goodiptv.club/aishang/cctv5p
-#EXTINF:-1 ,CCTV-6
-https://live.goodiptv.club/aishang/cctv6hd
-#EXTINF:-1 ,CCTV-7
-https://live.goodiptv.club/aishang/cctv7hd
-#EXTINF:-1 ,CCTV-8
-https://live.goodiptv.club/aishang/cctv8hd
-#EXTINF:-1 ,CCTV-9
-https://live.goodiptv.club/aishang/cctv9hd2
-#EXTINF:-1 ,CCTV-10
-https://live.goodiptv.club/aishang/cctv10hd
-#EXTINF:-1 ,CCTV-11
-https://live.goodiptv.club/aishang/cctv11hd
-#EXTINF:-1 ,CCTV-12
-https://live.goodiptv.club/aishang/cctv12hd
-#EXTINF:-1 ,CCTV-13
-https://live.goodiptv.club/aishang/cctv13hd
-#EXTINF:-1 ,CCTV-14
-https://live.goodiptv.club/aishang/cctv14hd
-#EXTINF:-1 ,CCTV-15
-https://live.goodiptv.club/aishang/cctv15hd
-#EXTINF:-1 ,CCTV-16
-https://live.goodiptv.club/aishang/cctv16hd
-#EXTINF:-1 ,CCTV-17
-https://live.goodiptv.club/aishang/cctv17hd
-#EXTINF:-1 ,CGTN
-https://live.goodiptv.club/aishang/cgtnhd
-#EXTINF:-1 ,湖南卫视
-https://live.goodiptv.club/aishang/hunwshd
+#EXTINF:-1 ,CCTV16-4K
+https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
+#EXTINF:-1 ,CCTV-4K
+https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
+#EXTINF:-1 ,CCTV1
+https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
+#EXTINF:-1 ,CCTV2
+https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
+#EXTINF:-1 ,CCTV3
+https://live.goodiptv.club/api/ghyx.php?id=CCTV3HD_6000
+#EXTINF:-1 ,CCTV4
+https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
+#EXTINF:-1 ,CCTV5
+https://live.goodiptv.club/api/ghyx.php?id=CCTV5HD_6000
+#EXTINF:-1 ,CCTV5+
+https://live.goodiptv.club/api/ghyx.php?id=CCTV5plusHD_6000
+#EXTINF:-1 ,CCTV6
+https://live.goodiptv.club/api/ghyx.php?id=CCTV6HD_6000
+#EXTINF:-1 ,CCTV7
+https://live.goodiptv.club/api/ghyx.php?id=CCTV7HD_6000
+#EXTINF:-1 ,CCTV8
+https://live.goodiptv.club/api/ghyx.php?id=CCTV8HD_6000
+#EXTINF:-1 ,CCTV9
+https://live.goodiptv.club/api/ghyx.php?id=CCTV9HD_6000
+#EXTINF:-1 ,CCTV10
+https://live.goodiptv.club/api/ghyx.php?id=CCTV10HD_6000
+#EXTINF:-1 ,CCTV11
+https://live.goodiptv.club/api/ghyx.php?id=CCTV11HD2_6000
+#EXTINF:-1 ,CCTV12
+https://live.goodiptv.club/api/ghyx.php?id=CCTV12HD_6000
+#EXTINF:-1 ,CCTV13
+https://live.goodiptv.club/api/ghyx.php?id=CCTV13HD2_6000
+#EXTINF:-1 ,CCTV14
+https://live.goodiptv.club/api/ghyx.php?id=CCTV14HD_6000
+#EXTINF:-1 ,CCTV15
+https://live.goodiptv.club/api/ghyx.php?id=CCTV15HD_6000
+#EXTINF:-1 ,CCTV16
+https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
+#EXTINF:-1 ,CCTV17
+https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
+#EXTINF:-1 ,歌华导视
+https://live.goodiptv.club/api/ghyx.php?id=GeHuadaoshiHD_6000
+#EXTINF:-1 ,CHC家庭影院
+https://live.goodiptv.club/api/ghyx.php?id=CHCHD_2000
+#EXTINF:-1 ,CHC高清电影
+https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
+#EXTINF:-1 ,CHC动作电影
+https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
+#EXTINF:-1 ,都市剧场
+https://live.goodiptv.club/api/ghyx.php?id=DuShiJuChangHD_6000
+#EXTINF:-1 ,劲爆体育
+https://live.goodiptv.club/api/ghyx.php?id=JinBaoTiYuHD_6000
 #EXTINF:-1 ,浙江卫视
-https://live.goodiptv.club/aishang/zjwshd
-#EXTINF:-1 ,东方卫视
-https://live.goodiptv.club/aishang/dfwshd
-#EXTINF:-1 ,江苏卫视
-https://live.goodiptv.club/aishang/jswshd
+https://live.goodiptv.club/api/ghyx.php?id=ZheJiangHD_6000
 #EXTINF:-1 ,北京卫视
-https://live.goodiptv.club/aishang/bjwshd
-#EXTINF:-1 ,深圳卫视
-https://live.goodiptv.club/aishang/szwshd
-#EXTINF:-1 ,山东卫视
-https://live.goodiptv.club/aishang/sdwshd
-#EXTINF:-1 ,广东卫视
-https://live.goodiptv.club/aishang/gdwshd
-#EXTINF:-1 ,安徽卫视
-https://live.goodiptv.club/aishang/ahwshd
-#EXTINF:-1 ,东南卫视
-https://live.goodiptv.club/aishang/dnwshd
-#EXTINF:-1 ,天津卫视
-https://live.goodiptv.club/aishang/tjwshd
-#EXTINF:-1 ,重庆卫视
-https://live.goodiptv.club/aishang/cqws
-#EXTINF:-1 ,湖北卫视
-https://live.goodiptv.club/aishang/hubwshd
-#EXTINF:-1 ,四川卫视
-https://live.goodiptv.club/aishang/scws
-#EXTINF:-1 ,河南卫视
-https://live.goodiptv.club/aishang/hnws
-#EXTINF:-1 ,陕西卫视
-https://live.goodiptv.club/aishang/sxws
-#EXTINF:-1 ,吉林卫视
-https://live.goodiptv.club/aishang/jlws
-#EXTINF:-1 ,云南卫视
-https://live.goodiptv.club/aishang/ynws
+https://live.goodiptv.club/api/ghyx.php?id=BTV1HD_6000
 #EXTINF:-1 ,广西卫视
-https://live.goodiptv.club/aishang/gxws
-#EXTINF:-1 ,江西卫视
-https://live.goodiptv.club/aishang/jxws
-#EXTINF:-1 ,黑龙江卫视
-https://live.goodiptv.club/aishang/hljwshd
+https://live.goodiptv.club/api/ghyx.php?id=GuangXiHD_6000
+#EXTINF:-1 ,辽宁卫视
+https://live.goodiptv.club/api/ghyx.php?id=LiaoNingHD_6000
+#EXTINF:-1 ,安徽卫视
+https://live.goodiptv.club/api/ghyx.php?id=AnHuiHD_6000
+#EXTINF:-1 ,江苏卫视
+https://live.goodiptv.club/api/ghyx.php?id=JiangSuHD_6000
+#EXTINF:-1 ,东方卫视
+https://live.goodiptv.club/api/ghyx.php?id=DongFangHD_6000
+#EXTINF:-1 ,东南卫视
+https://live.goodiptv.club/api/ghyx.php?id=FuJianHD_6000
+#EXTINF:-1 ,湖南卫视
+https://live.goodiptv.club/api/ghyx.php?id=HuNanHD_6000
+#EXTINF:-1 ,湖北卫视
+https://live.goodiptv.club/api/ghyx.php?id=HuBeiHD_6000
+#EXTINF:-1 ,广东卫视
+https://live.goodiptv.club/api/ghyx.php?id=GuangDongHD_6000
+#EXTINF:-1 ,广西卫视
+https://live.goodiptv.club/api/ghyx.php?id=GuangXiHD_6000
+#EXTINF:-1 ,深圳卫视
+https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
+#EXTINF:-1 ,四川卫视
+https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
+#EXTINF:-1 ,山东卫视
+https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
+#EXTINF:-1 ,河南卫视
+https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
 #EXTINF:-1 ,河北卫视
-https://live.goodiptv.club/aishang/hbwshd
-#EXTINF:-1 ,青海卫视
-https://live.goodiptv.club/aishang/qhws
-#EXTINF:-1 ,贵州卫视
-https://live.goodiptv.club/aishang/gzwshd
-#EXTINF:-1 ,西藏卫视
-https://live.goodiptv.club/aishang/xzws
+https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
+#EXTINF:-1 ,江西卫视
+https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
+#EXTINF:-1 ,天津卫视
+https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
+#EXTINF:-1 ,重庆卫视
+https://live.goodiptv.club/api/ghyx.php?id=ChongQingHD_6000
+#EXTINF:-1 ,黑龙江卫视
+https://live.goodiptv.club/api/ghyx.php?id=HeiLongJiangHD_6000
+#EXTINF:-1 ,吉林卫视
+https://live.goodiptv.club/api/ghyx.php?id=JiLinWeiShiHD_6000
+#EXTINF:-1 ,海南卫视
+https://live.goodiptv.club/api/ghyx.php?id=LvYouWeiShiHD_6000
+#EXTINF:-1 ,三沙卫视
+https://live.goodiptv.club/api/ghyx.php?id=SanShaHD2_6000
+#EXTINF:-1 ,陕西卫视
+https://live.goodiptv.club/api/ghyx.php?id=ShanXiHD2_6000
+#EXTINF:-1 ,云南卫视
+https://live.goodiptv.club/api/ghyx.php?id=YunNanHD2_6000
 #EXTINF:-1 ,甘肃卫视
-https://live.goodiptv.club/aishang/gsws
-#EXTINF:-1 ,新疆卫视
-https://live.goodiptv.club/aishang/xjws
-#EXTINF:-1 ,厦门卫视
-https://live.goodiptv.club/aishang/xmws
+https://live.goodiptv.club/api/ghyx.php?id=GanSuHD2_6000
 #EXTINF:-1 ,内蒙古卫视
-https://live.goodiptv.club/aishang/nmws
-#EXTINF:-1 ,中国教育
-https://live.goodiptv.club/aishang/cetv1hd
-#EXTINF:-1 ,中国教育2
-https://live.goodiptv.club/aishang/cetv2
-#EXTINF:-1 ,中国教育4
-https://live.goodiptv.club/aishang/cetv4
-#EXTINF:-1 ,山东教育卫视
-https://live.goodiptv.club/aishang/sdjy
-#EXTINF:-1 ,金鹰纪实
-https://live.goodiptv.club/aishang/jyjs
-#EXTINF:-1 ,金鹰卡通
-https://live.goodiptv.club/aishang/jykt
-#EXTINF:-1 ,卡酷少儿
-https://live.goodiptv.club/aishang/kkse
-#EXTINF:-1 ,嘉佳卡通
-https://live.goodiptv.club/aishang/jjkt
-#EXTINF:-1 ,新动漫
-https://live.goodiptv.club/aishang/xdm
+https://live.goodiptv.club/api/ghyx.php?id=NeiMengGuHD_2000
+#EXTINF:-1 ,山西卫视
+https://live.goodiptv.club/api/ghyx.php?id=ShanXiHD_2000
+#EXTINF:-1 ,北京卫视BTV-1
+https://live.goodiptv.club/api/ghyx.php?id=BTV1HD_6000
+#EXTINF:-1 ,北京文艺BTV-2
+https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
+#EXTINF:-1 ,北京科教BTV-3
+https://live.goodiptv.club/api/ghyx.php?id=BTVKeJiaoHD_6000
+#EXTINF:-1 ,北京科教BTV-3
+https://live.goodiptv.club/api/ghyx.php?id=BTV3HD_2000
+#EXTINF:-1 ,北京影视BTV-4
+https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
+#EXTINF:-1 ,北京财经BTV-5
+https://live.goodiptv.club/api/ghyx.php?id=BTVCaiJingHD_6000
+#EXTINF:-1 ,北京体育休闲BTV-6
+https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
+#EXTINF:-1 ,北京生活BTV-7
+https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000
+#EXTINF:-1 ,北京生活BTV-7 标清
+https://live.goodiptv.club/api/ghyx.php?id=BTV7HD_2000
+#EXTINF:-1 ,北京青年BTV-8
+https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
+#EXTINF:-1 ,北京青年BTV-8 标清
+https://live.goodiptv.club/api/ghyx.php?id=BTV8HD_2000
+#EXTINF:-1 ,北京新闻BTV-9
+https://live.goodiptv.club/api/ghyx.php?id=BTV9HD_6000
+#EXTINF:-1 ,北京卡酷BTV-10 标清
+https://live.goodiptv.club/api/ghyx.php?id=BTV10HD_2000
+#EXTINF:-1 ,京视剧场 标清
+https://live.goodiptv.club/api/ghyx.php?id=JinShiJuChangHD_2000
+#EXTINF:-1 ,生态环境 标清
+https://live.goodiptv.club/api/ghyx.php?id=XinYuLeHD_2000
+#EXTINF:-1 ,中国天气 标清
+https://live.goodiptv.club/api/ghyx.php?id=ChinaQiXiangPinDaoHD_2000
+#EXTINF:-1 ,乐游
+https://live.goodiptv.club/api/ghyx.php?id=QuanJiShiHD_6000
+#EXTINF:-1 ,CETV1
+https://live.goodiptv.club/api/ghyx.php?id=CETV1HD_6000
+#EXTINF:-1 ,CETV3 标清
+https://live.goodiptv.club/api/ghyx.php?id=CETV3HD_2000
+#EXTINF:-1 ,CETV4 标清
+https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
 #EXTINF:-1 ,====== 友好频道 ======
 http://0/0.m3u8
 #EXTINF:-1 ,翡翠台
