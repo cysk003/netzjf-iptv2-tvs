@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png"，北京文艺
 http://cntv.sbs/bj?id=wy
-#EXTINF:-1 ,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视BTV-4
+#EXTINF:-1 ,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png",北京影视BTV-4
 http://cntv.sbs/bj?id=ys
-#EXTINF:-1 ,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经BTV-5
+#EXTINF:-1 ,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png",北京财经BTV-5
 http://cntv.sbs/bj?id=cj
-#EXTINF:-1 ,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活BTV-7
+#EXTINF:-1 ,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png",北京生活BTV-7
 http://cntv.sbs/bj?id=sh
-#EXTINF:-1 ,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻BTV-9
+#EXTINF:-1 ,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png",北京新闻BTV-9
 http://cntv.sbs/bj?id=xw
-#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺BTV-2
+#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺BTV-2
 http://live.cooltv.top/tv/btime.php?id=btvwy
-#EXTINF:-1 ,tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png"，苏州4K
+#EXTINF:-1 ,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png"，苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,广东4K超高清
 https://live.goodiptv.club/api/itouch.php?id=1198
@@ -31,25 +31,23 @@ http://185.243.7.2:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extensio
 http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 ,绚影4K
 http://xcm13.f3322.net:4000/udp/239.93.42.33:5140
-#EXTINF:-1 ,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png"
+#EXTINF:-1 ,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png",4K超高清电影
 http://xcm13.f3322.net:4000/udp/239.93.1.156:5140
 #EXTINF:-1 ,爱上4K
 http://xcm13.f3322.net:4000/udp/239.93.0.97:5140
-#EXTINF:-1 ,4K乐享超清
-http://xcm13.f3322.net:4000/udp/239.93.0.43:5140
 #EXTINF:-1 ,HD看电影
 http://xcm13.f3322.net:4000/udp/239.93.42.47:5140
-#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" 
+#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 https://pull-l3-cny.douyincdn.com/live/stream-19123562023050213232.m3u8
-#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" 
+#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯 
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" 
+#EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 http://113.117.74.20:8081/hls/36/index.m3u8
-#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" 
+#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" 
+#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" 凤凰中文
+#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://113.117.74.20:8081/hls/37/index.m3u8
 #EXTINF:-1 ,翡翠台
 http://113.117.74.20:8081/hls/25/index.m3u8
@@ -61,11 +59,11 @@ http://113.117.74.20:8081/hls/67/index.m3u8
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 ,求索纪录高清
 http://113.207.84.197:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png"，CHC动作电影
+#EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
 https://live.goodiptv.club/aishang/chcdzdy
-#EXTINF:-1 ,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png"，CHC高清电影
+#EXTINF:-1 ,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 https://live.goodiptv.club/aishang/chcgqdy
-#EXTINF:-1 ,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png"，CHC家庭影院
+#EXTINF:-1 ,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
 https://live.goodiptv.club/aishang/chcjtyy
 #EXTINF:-1 ,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png,欢笑剧场4K
 http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
