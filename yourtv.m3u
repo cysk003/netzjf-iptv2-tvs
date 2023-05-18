@@ -11,7 +11,7 @@ http://cntv.sbs/bj?id=sh
 http://cntv.sbs/bj?id=xw
 #EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺BTV-2
 http://live.cooltv.top/tv/btime.php?id=btvwy
-#EXTINF:-1 ,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png"，苏州4K
+#EXTINF:-1 ,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,广东4K超高清
 https://live.goodiptv.club/api/itouch.php?id=1198
