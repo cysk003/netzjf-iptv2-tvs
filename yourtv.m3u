@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png"，北京文艺
+#EXTINF:-1 ,运城综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
+#EXTINF:-1 ,运城公共
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
+#EXTINF:-1 ,运城科教
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
+#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺
 http://cntv.sbs/bj?id=wy
 #EXTINF:-1 ,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png",北京影视BTV-4
 http://cntv.sbs/bj?id=ys
