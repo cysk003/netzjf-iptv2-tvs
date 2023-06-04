@@ -62,7 +62,7 @@ http://113.117.74.20:8081/hls/26/index.m3u8
 #EXTINF:-1 ,翡翠台高清
 http://113.117.74.20:8081/hls/67/index.m3u8
 #EXTINF:-1 ,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
-http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 #EXTINF:-1 ,求索纪录高清
 http://113.207.84.197:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
