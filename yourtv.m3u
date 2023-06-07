@@ -263,3 +263,18 @@ https://live.goodiptv.club/api/ghyx.php?id=CETV1HD_6000
 https://live.goodiptv.club/api/ghyx.php?id=CETV3HD_2000
 #EXTINF:-1 ,CETV4
 https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
+#EXTINF:-1 ,华语影院
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000 
+#EXTINF:-1 ,青春动漫
+https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000 
+#EXTINF:-1 ,宝宝动画
+https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000 
+#EXTINF:-1 星光影院
+https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000 
+#EXTINF:-1 ,谍战剧场
+https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000 
+#EXTINF:-1 ,全球大片
+https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000 
+#EXTINF:-1 ,热门剧场
+https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+
