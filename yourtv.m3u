@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,1905电影网直播1
+https://hlslive.1905.com/live/LIVE544JLEIYROVF7/index.m3u8?tm=1687536301&sign=5f97376928aef5ede72946a59224a6c1
+#EXTINF:-1 ,1905电影网直播2
+1905电影,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1687536301&sign=c90eaa9898de55ccf451b0eedda8465a
 #EXTINF:-1 ,运城综合
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 #EXTINF:-1 ,运城公共
@@ -7,15 +11,15 @@ http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
 http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
 #EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv2
-#EXTINF:-1 ,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png",北京影视BTV-4
+#EXTINF:-1 ,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png",北京影视
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv4
-#EXTINF:-1 ,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png",北京财经BTV-5
+#EXTINF:-1 ,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png",北京财经
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv5
-#EXTINF:-1 ,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png",北京生活BTV-7
+#EXTINF:-1 ,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png",北京生活
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv7
-#EXTINF:-1 ,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png",北京新闻BTV-9
+#EXTINF:-1 ,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png",北京新闻
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv9
-#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺BTV-2
+#EXTINF:-1 ,tvg-id="北京文艺" tvg-name="北京" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png",北京文艺
 http://live.cooltv.top/tv/btime.php?id=btvwy
 #EXTINF:-1 ,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
