@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 ,运城综合
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 #EXTINF:-1 ,运城公共
@@ -21,10 +21,10 @@ http://live.cooltv.top/tv/btime.php?id=btvwy
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,广东4K超
 https://live.goodiptv.club/api/itouch.php?id=1198
-#EXTINF:-1 ,爱上4K
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 ,北京IPTV4K
-http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
+http://222.128.86.76:8133/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",北京IPTV 4K超清
+http://222.128.86.76:8133/rtp/239.3.1.249:8001
 #ExTINF:-1 ,北京纪实科教
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv11
 #EXTINF:-1 ,4K超电影
@@ -69,48 +69,52 @@ https://live.goodiptv.club/aishang/chcjtyy
 http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 ,爱上4K
 https://live.goodiptv.club/aishang/as4k
-#EXTINF:-1 ,CCTV16-4K
+#EXTINF:-1 ,CCTV16
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 ,CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 ,欢笑剧场4k
 https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1综合高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2财经高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3综艺高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4中文国际高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5P高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6电影高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7国防军事高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8电视剧高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9纪录高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10科教高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11戏曲高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12社会与法高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13新闻高清
-https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14少儿高清
-https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15音乐高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16奥林匹克高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17农业农村高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
+http://222.128.86.76:8133/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
+http://222.128.86.76:8133/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
+http://222.128.86.76:8133/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
+http://222.128.86.76:8133/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png",CCTV-4 中文国际 欧洲
+http://222.128.86.76:8133/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png",CCTV-4 中文国际 美洲
+http://222.128.86.76:8133/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
+http://222.128.86.76:8133/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://222.128.86.76:8133/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
+http://222.128.86.76:8133/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7国防军事
+http://222.128.86.76:8133/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
+http://222.128.86.76:8133/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9纪录
+http://222.128.86.76:8133/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10科教
+http://222.128.86.76:8133/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11戏曲
+http://222.128.86.76:8133/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
+http://222.128.86.76:8133/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
+http://222.128.86.76:8133/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
+http://222.128.86.76:8133/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
+http://222.128.86.76:8133/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥林匹克频道
+http://222.128.86.76:8133/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17农业农村
+http://222.128.86.76:8133/rtp/239.3.1.151:8144
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视高清
 https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视高清
