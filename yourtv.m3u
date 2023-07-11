@@ -60,11 +60,11 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,求索纪录
 http://113.207.84.197:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
-https://live.goodiptv.club/aishang/chcdzdy
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
-https://live.goodiptv.club/aishang/chcgqdy
+hhttp://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
-https://live.goodiptv.club/aishang/chcjtyy
+http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 ,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png,欢笑剧场4K
 http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 ,爱上4K
