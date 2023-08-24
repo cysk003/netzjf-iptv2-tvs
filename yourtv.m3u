@@ -19,42 +19,14 @@ http://player.200877926.top/1691/bj/btvm3u8.php?id=btv9
 http://live.cooltv.top/tv/btime.php?id=btvwy
 #EXTINF:-1 ,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,广东4K超
-https://live.goodiptv.club/api/itouch.php?id=1198
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
-http://222.128.86.76:8133/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",北京IPTV 4K超清
 http://222.128.86.76:8133/rtp/239.3.1.249:8001
 #ExTINF:-1 ,北京纪实科教
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv11
-#EXTINF:-1 ,4K超电影
-http://xcm13.f3322.net:4000/udp/239.93.1.156:5140
-#EXTINF:-1 ,4K影视
-http://mrcat.myqnapcloud.com:4022/udp/239.81.0.123:4056
-#EXTINF:-1 ,HBO
-http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-#EXTINF:-1 ,HBO
-http://185.243.7.2:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=m3u8
-#EXTINF:-1 ,欢笑剧场4K
-http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 ,绚影4K
-http://xcm13.f3322.net:4000/udp/239.93.42.33:5140
-#EXTINF:-1 ,tvg-id="4K超电影" tvg-name="4K超电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png",4K超电影
-http://xcm13.f3322.net:4000/udp/239.93.1.156:5140
-#EXTINF:-1 ,爱上4K
-http://xcm13.f3322.net:4000/udp/239.93.0.97:5140
-#EXTINF:-1 ,HD看电影
-http://xcm13.f3322.net:4000/udp/239.93.42.47:5140
 #EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://113.117.74.20:8081/hls/36/index.m3u8
+http://r.jdshipin.com/0Rp07
 #EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://113.117.74.20:8081/hls/37/index.m3u8
-#EXTINF:-1 ,翡翠台
-http://113.117.74.20:8081/hls/25/index.m3u8
-#EXTINF:-1 ,明珠台
-http://113.117.74.20:8081/hls/26/index.m3u8
-#EXTINF:-1 ,翡翠台
-http://113.117.74.20:8081/hls/67/index.m3u8
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 ,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,求索纪录
@@ -62,7 +34,7 @@ http://113.207.84.197:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
-hhttp://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 ,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png,欢笑剧场4K
