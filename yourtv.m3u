@@ -24,9 +24,9 @@ http://222.128.86.76:8133/rtp/239.3.1.249:8001
 #ExTINF:-1 ,北京纪实科教
 http://player.200877926.top/1691/bj/btvm3u8.php?id=btv11
 #EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://r.jdshipin.com/0Rp07
+http://113.117.74.19:8081/hls/36/index.m3u8
 #EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://r.jdshipin.com/cCCzW
+http://113.117.74.19:8081/hls/37/index.m3u8
 #EXTINF:-1 ,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,求索纪录
