@@ -21,10 +21,6 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://113.207.84.197:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,龙华电影台
 https://pull-l3-activity.ixigua.com/live/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
-#EXTINF:-1 ,美亚电影香港
-https://pull-l3-activity.ixigua.com/live/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-#EXTINF:-1 ,美亚电影台湾
-https://pull-l3-activity.ixigua.com/live/stream-4b7a860a41c30245fdec6983a633d264.m3u8
 #EXTINF:-1 ,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 ,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
