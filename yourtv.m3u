@@ -114,7 +114,7 @@ http://222.128.86.76:8133/rtp/239.3.1.141:1234
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
 http://1583.hsmedia.top:8080/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 ,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://gd4.998877.site:8081/hls/37/index.m3u8
-#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://gd4.998877.site:8081/hls/36/index.m3u8
+#EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://gd4.998877.site:8081/hls/37/index.m3u8
 
